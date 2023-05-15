@@ -4299,10 +4299,10 @@ Page Banner Area CSS
   left: 0;
 }
 
-.page-banner-area.bg-1 {
+/* .page-banner-area.bg-1 {
   background-image: url("../img/page-bg/page-bg-1.jpg");
-}
-
+} */
+/* 
 .page-banner-area.bg-2 {
   background-image: url("../img/page-bg/page-bg-2.jpg");
 }
@@ -4325,7 +4325,7 @@ Page Banner Area CSS
 
 .page-banner-area.bg-7 {
   background-image: url("../img/page-bg/page-bg-7.jpg");
-}
+} */
 
 .page-banner-area .page-content h2 {
   color: #ffffff;
